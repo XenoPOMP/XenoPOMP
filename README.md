@@ -43,11 +43,6 @@ My name\`s Alex, I\`m junior front-end developer. I specialize in ReactJS.
 
 <p>
 <img src="src/images/en-screen0.png" />
-<img src="src/images/en-screen1.png" />
-<img src="src/images/en-screen2.png" />
-<img src="src/images/en-screen3.png" />
-<img src="src/images/en-screen4.png" />
-<img src="src/images/en-screen5.png" />
 </p>
 
 1. Repo (frontend): [link](https://github.com/XenoPOMP/coursework-2023)
