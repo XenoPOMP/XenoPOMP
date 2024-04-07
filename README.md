@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xenopomp&label=Profile%20views&color=0e75b6&style=flat" alt="xenopomp" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://xenopomp-portfolio.vercel.app](https://xenopomp-portfolio.vercel.app)
+<!-- - 👨‍💻 All of my projects are available at [https://xenopomp-portfolio.vercel.app](https://xenopomp-portfolio.vercel.app) -->
 
 - 📫 How to reach me **xenopomp.work@gmail.com**
 
